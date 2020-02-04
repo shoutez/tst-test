@@ -2,7 +2,7 @@
 
 Simple programming assignment in `Scala`
 
-# Installation
+# Steps
 
 * Download `sbt` for your system https://www.scala-sbt.org/download.html
 * Run code with the command `sbt run`
